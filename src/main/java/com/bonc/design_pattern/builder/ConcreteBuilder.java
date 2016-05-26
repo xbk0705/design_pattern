@@ -6,7 +6,7 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 
 /**
- * 具体生成器
+ * 具体生成器 
  * */
 public class ConcreteBuilder implements Builder{
 	
